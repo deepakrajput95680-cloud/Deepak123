@@ -65,4 +65,10 @@
         "expirydate": "16-05-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "509600a8f5320a20",
+        "key": "d8",
+        "expirydate": "17-05-2026",
+        "Allowoffline": false
+    },
 ]
